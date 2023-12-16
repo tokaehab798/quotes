@@ -1,0 +1,12 @@
+.qoute{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 90px;
+}
+.btn{
+    width: 200px;
+    height: 70px;
+    
+}
+.btn:hover{
+    background-color: green;
+}
